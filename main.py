@@ -1,6 +1,4 @@
-from appFlavio import app
+from appbufula import app
 
-
-if __name__ == '__bufula__':
+if __name__ == '__main__':
     app.run(debug=True)
-

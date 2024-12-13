@@ -1,0 +1,7 @@
+.flavioAPI
+
+*.pyc
+
+__pycache__
+
+
